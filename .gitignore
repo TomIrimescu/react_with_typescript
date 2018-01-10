@@ -3,4 +3,5 @@
 react-with-typescript.iml
 node_modules/
 
-
+bundle.js
+bundle.js.map
