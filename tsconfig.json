@@ -1,9 +1,13 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
     "target": "es5",
-    "noImplicitAny": false,
+    "module": "commonjs",
     "sourceMap": false,
+    "noEmitOnError": true,
+    "strict": true,
+    "noImplicitAny": false,
+    "strictNullChecks": true,
+    "noUnusedParameters": true,
     "jsx": "react"
   },
   "exclude": [
